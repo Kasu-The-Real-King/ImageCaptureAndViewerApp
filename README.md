@@ -1,5 +1,5 @@
 # ImageCaptureAndViewerApp
-| 
+
 Name                                   id \
  
 1.Kasu  urgecha                       1232 \
